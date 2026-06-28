@@ -10,7 +10,7 @@ https://roadmap.sh/projects/single-page-cv
 
 https://alexei-pandemonium.github.io/single-page-cv/
 
-	⁠Replace ⁠ yourusername ⁠ with your actual GitHub username after enabling GitHub Pages.
+	
 
 ## Features
 
